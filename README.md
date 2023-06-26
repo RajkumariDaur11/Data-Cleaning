@@ -4,7 +4,7 @@ Data Cleaning is a crutial process in data engineering that focuses on improving
 
 
 **Handling Missing Values**   
-Handling missing values refers to the process of addressing and managing data points that are missing or incomplete within a dataset
+Handling missing values refers to the process of addressing and managing data points that are missing or incomplete within a dataset.
 
 Data before cleaning -  
 
