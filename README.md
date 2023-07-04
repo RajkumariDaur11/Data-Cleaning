@@ -8,7 +8,7 @@ Handling missing values refers to the process of addressing and managing data po
 
 Data before cleaning -  
 
-![image](https://github.com/RajkumariDaur11/Data-Cleaning/assets/114231752/6ba898a8-d542-4f3f-a85b-854f49721383)
+![image](https://github.com/RajkumariDaur11/Data-Cleaning/blob/main/Images/Data%20Before%20Cleaning%20.png)
 
 
 Data after cleaning -  
