@@ -22,7 +22,7 @@ Scaling refers to the process of applying data transformations to ensure that th
 
 Orginal Data vs Scaled Data  
 
-![image](https://github.com/RajkumariDaur11/Data-Cleaning/assets/114231752/465580d1-643c-4697-8662-2f612aae957f)
+![image](https://github.com/RajkumariDaur11/Data-Cleaning/blob/main/Images/Scaled%20Data.png)
 
  **Normalization**  
  
@@ -30,7 +30,7 @@ Scaling just changes the range of your data. Normalization is a more radical tra
 
 Original Data vs Normalized Data
 
-![image](https://github.com/RajkumariDaur11/Data-Cleaning/assets/114231752/4a6034db-be2b-49a9-aebb-52dec4ab3af3)
+![image](https://github.com/RajkumariDaur11/Data-Cleaning/blob/main/Images/Normalized%20Data.png)
 
 
 **Dataset-**  
