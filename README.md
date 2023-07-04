@@ -13,7 +13,7 @@ Data before cleaning -
 
 Data after cleaning -  
 
-![image](https://github.com/RajkumariDaur11/Data-Cleaning/assets/114231752/1d2e0e3c-ea25-4273-b8b5-0a050298155c)
+![image](https://github.com/RajkumariDaur11/Data-Cleaning/blob/main/Images/Data%20after%20Cleansing.png)
 
 
 **Scaling**  
